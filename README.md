@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sancho, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Hi, I'm Sancho, an <a href="https://www.linkedin.com/in/sancho-barrett-pmp-622662103/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
