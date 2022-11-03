@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Sancho, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
 
-<!--
-**sanchb11/sanchb11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Installation](https://github.com/sanchb11/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/sanchb11/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/sanchb11/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sanchb11/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sanchb11/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/sancho-barrett-pmp-622662103/
